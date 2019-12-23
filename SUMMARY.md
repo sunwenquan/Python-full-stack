@@ -23,6 +23,7 @@
     * [2.4 课后习题](Experiment2/exercises/exercises.md)
 * [课堂笔记](note/README.md)
     * [2019-12-20](note/2019-12-20.md)
+    * [2019-12-21](note/2019-12-21.md)
 
 ## 二、总复习
 * [第一部分 Python编程思想](第一部分/readme.md)
